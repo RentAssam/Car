@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-    scriptUrl: 'https://script.google.com/macros/s/AKfycbyMVYRkDmrDjdrc3W0ILw5tZA48aqHfnS8kWpKR-4n5VTvYZ213qdNNC_4iJRlibvjt/exec', // Replace with your Google Apps Script URL
+    scriptUrl: 'https://script.google.com/macros/s/AKfycbypFHPwmX1aaIHcsmOYlVSIFHwcz7QVG7JpB-TNtpOD8NkS6g8u5rr-vX5Xe92bBNW4/exec', // Replace with your Google Apps Script URL
     defaultCurrency: '₹'
 };
 
